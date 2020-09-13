@@ -7,7 +7,7 @@ StickerId:
 StickerPackageId
 Text:
 
-LINENotify1.AccessToken := ''; // TOKEN LINE https://notify-bot.line.me/my/
+LINENotify1.AccessToken := ''; // TOKEN LINE   https://notify-bot.line.me/my/
 LINENotify1.Text := 'ข้อความ';
 LINENotify1.stickerId := edtStickerID.Text;   //สติ๊กเกอร์ไอดี  ** ว่างได้ //'  https://devdocs.line.me/files/sticker_list.pdf
 LINENotify1.stickerPackageId := edtStickerPackageID.Text; //ติ๊กเกอร์แพคเกจไอดี  ***  ว่างได้
