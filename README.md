@@ -7,10 +7,10 @@ StickerId:
 StickerPackageId
 Text:
 
-LINENotify1.AccessToken := ''; // TOKEN LINE
-LINENotify1.Text := 'ข้อความ';
-LINENotify1.stickerId := edtStickerID.Text;   //สติ๊กเกอร์ไอดี  ** ว่างได้ //' https://devdocs.line.me/files/sticker_list.pdf
-LINENotify1.stickerPackageId := edtStickerPackageID.Text; //ติ๊กเกอร์แพคเกจไอดี  ***  ว่างได้
-LINENotify1.imageFileName := edtImage.Text; //รูปภาพ  *** ว่างได้ C://image/img.png
-LINENotify1.SendText;
+# LINENotify1.AccessToken := ''; // TOKEN LINE
+# LINENotify1.Text := 'ข้อความ';
+# LINENotify1.stickerId := edtStickerID.Text;   //สติ๊กเกอร์ไอดี  ** ว่างได้ //' https://devdocs.line.me/files/sticker_list.pdf
+# LINENotify1.stickerPackageId := edtStickerPackageID.Text; //ติ๊กเกอร์แพคเกจไอดี  ***  ว่างได้
+# LINENotify1.imageFileName := edtImage.Text; //รูปภาพ  *** ว่างได้ C://image/img.png
+# LINENotify1.SendText;
 
