@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-TLineNotify BITMAP "res\\ICON.bmp"
-SPLASHICON BITMAP "res\\SPLASHICON.bmp"
-=======
-TLineNotify BITMAP "res\\ICON.bmp"
-SPLASHICON BITMAP "res\\SPLASHICON.bmp"
->>>>>>> 7c6214de04b66a8f7234698189604202948c71c3
+TLineNotify BITMAP "ICON.bmp"
+ICON BITMAP "SICON.bmp"
+TSMSMKT BITMAP "res\\SMSMKT.bmp"
