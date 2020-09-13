@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 [Stats]
 EditorSecs=41
 DesignerSecs=1
@@ -9,15 +8,3 @@ StartTime=21/11/2019 18:24:16
 RealKeys=0
 EffectiveKeys=0
 DebugSecs=1
-=======
-[Stats]
-EditorSecs=41
-DesignerSecs=1
-InspectorSecs=1
-CompileSecs=2185
-OtherSecs=8
-StartTime=21/11/2019 18:24:16
-RealKeys=0
-EffectiveKeys=0
-DebugSecs=1
->>>>>>> 7c6214de04b66a8f7234698189604202948c71c3
